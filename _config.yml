@@ -77,7 +77,7 @@ duoshuo:
 
 #### fork me on github
 github:
-  enable: true
+  enable: false
 
 #### defaultshare button
 defaultshare:
