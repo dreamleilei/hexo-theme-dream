@@ -35,7 +35,7 @@ apple_icon: img/pacman.jpg ## size:114px*114px,please put image into the theme f
 #### Author Avatar Picture
 author_img_enable: true ## display author avatar picture
 dataURI: true
-## if the picture's format is dataURI please set the value to true,otherwise set the value to false.
+## if the picture's format is dataURI please ,set the value to true,otherwise set the value to false.
 ## convert an image into base 64 data URIs http://websemantics.co.uk/online_tools/image_to_data_uri_convertor/ .
 author_img_data: ''
 ## paste the dataURI in ONE LINE and included it by ''.
@@ -65,15 +65,15 @@ author:
   intro_line1: "没有礁石，就没有美丽的浪花；没有挫折，就没有壮丽的人生！" ## eg: "Hello ,I'm Larry Page in Google."
   intro_line2: "再长的路，一步步也能走完，再短的路，不迈开双脚也无法到达，平凡的脚步也可以走完伟大的行程！" ## eg: "This is my blog,believe it or not."
   weibo:       dreamleilei     ## e.g. 2583230784 for http://weibo.com/2583230784
-  twitter:     idreajay ## e.g. yangjiansky for https://twitter.com/idreajay
+  twitter:     dreamleilei ## e.g. yangjiansky for https://twitter.com/idreajay
   github:      dreamleilei ## e.g. A-limon for https://github.com/A-limon
-  facebook:     ## e.g. dreajay.dai for https://favebook.com/dreajay.dai
+  facebook:    dreamleilei     ## e.g. dreajay.dai for https://favebook.com/dreajay.dai
   tsina:      3963329100 ## e.g. 1664838973  Your weibo ID,It will be used in share button.
 
 #### Comment
 duoshuo: 
   enable: true  ## duoshuo.com
-  short_name: dreamleileigithubblog  ## duoshuo short name.
+  short_name: dreamleilei123  ## duoshuo short name.
 
 #### fork me on github
 github:
@@ -99,8 +99,8 @@ baidu_tongji:
 
 #### 百度搜索
 baidu_search: 
-  enable: false
-  zhannei: "17834434419516021878"
+  enable: true
+  zhannei: "144354557403208445"
 
 
 #### Analytics
@@ -118,7 +118,7 @@ la51_analytics:
 
 #### Custom Search
 google_cse: 
-  enable: false
+  enable: true
   cx:  ## e.g. 000561263943549425496:mrzrm0gr4kg your Custom Search ID
 ## https://www.google.com/cse/ 
 ## To enable the custom search You must create a "search" folder in '/source' and a "index.md" file
